@@ -87,7 +87,7 @@
     <div class="container">
         <div id="about" class="section">
             <h2>About Me</h2>
-            <p>👋 Hi, I'm Abhishek Kumar Yadav! I am a Computer Science and Engineering student at Rungta College of Engineering (2024-2028) with a passion for Artificial Intelligence and Machine Learning. I am constantly exploring coding, problem-solving, and cutting-edge technologies to refine my skills and push my limits.</p>
+            <p>👋 Hi, I'm Abhishek Kumar Yadav! I am a Computer Science and Engineering student at Rungta College of Engineering and Technology(2024-2028) with a passion for Artificial Intelligence and Machine Learning. I am constantly exploring coding, problem-solving, and cutting-edge technologies to refine my skills and push my limits.</p>
             <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing, and preparing for tech industry interviews.</p>
         </div>
         <div id="skills" class="section">
@@ -97,7 +97,7 @@
         <div id="education" class="section">
             <h2>Education</h2>
             <p>Currently Pursuing B.Tech in Computer Science and Engineering</p>
-            <p>Rungta College of Engineering (2024 - 2028)</p>
+            <p>Rungta College of Engineering and Technology (2024 - 2028)</p>
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
