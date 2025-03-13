@@ -48,7 +48,7 @@
     <header>
         Abhishek Kumar Yadav
         <br>
-        <img src="profile.jpg.jpg" alt="Abhishek Kumar Yadav" class="profile-img">
+        <img src="profile.jpg" alt="Abhishek Kumar Yadav" class="profile-img">
     </header>
     <div class="container">
         <div class="section">
