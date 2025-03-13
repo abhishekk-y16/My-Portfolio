@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,12 +29,14 @@
             position: relative;
         }
         .hero img {
-            width: 100%;
-            max-height: 500px;
+            width: 200px;
+            height: 200px;
             object-fit: cover;
             display: block;
-            margin: 0 auto;
-            border-radius: 10px;
+            margin: 20px auto;
+            border-radius: 50%;
+            border: 5px solid #ffcc00;
+            box-shadow: 0 0 15px rgba(255, 204, 0, 0.6);
         }
         .hero h1 {
             font-size: 45px;
@@ -60,7 +61,7 @@
             padding: 30px;
             background: #2a2a2a;
             border-radius: 10px;
-            box-shadow: 0 0 15px rgba(255, 204, 0, 0.6); /* Yellow Glow */
+            box-shadow: 0 0 15px rgba(255, 204, 0, 0.6);
         }
         h2 {
             font-size: 30px;
@@ -85,6 +86,7 @@
     </nav>
     
     <section id="home" class="hero">
+        <img src="https://i.postimg.cc/j2CnNfq2/profile.jpg" alt="Abhishek Kumar Yadav">
         <h1>Abhishek Kumar Yadav</h1>
         <p class="caption">🔬 Innovating with AI, Solving with ML</p>
         <p class="caption">🌍 Transforming Ideas into AI-powered Reality</p>
@@ -94,7 +96,7 @@
         <div id="about" class="section">
             <h2>About Me</h2>
             <p>👋 Hi, I'm Abhishek Kumar Yadav! I am a Computer Science and Engineering student at Rungta College of Engineering and Technology (2024-2028) with a passion for Artificial Intelligence and Machine Learning. I am constantly exploring coding, problem-solving, and cutting-edge technologies to refine my skills and push my limits.</p>
-            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing, and preparing for tech industry interviews.</p>
+            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing the solution of the codes</p>
         </div>
         <div id="skills" class="section">
             <h2>Skills</h2>
@@ -103,11 +105,11 @@
         <div id="education" class="section">
             <h2>Education</h2>
             <p>B.Tech in Computer Science and Engineering</p>
-            <p>Rungta College of Engineering and Technology (2024 - 2028)</p>
+            <p>Rungta College of Engineering Technology (2024 - 2028)</p>
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
-            <p>Class Monitor in School</p>
+            <p>Class monitor in school, Leadership in leading a team</p>
             <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
