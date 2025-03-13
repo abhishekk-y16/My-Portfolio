@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,19 +6,19 @@
     <title>Abhishek Kumar Yadav - Portfolio</title>
     <style>
         body {
-            background-color: #000080; /* Navy Blue Background */
-            color: #ffffff;
+            background-color: #2c3e50; /* Dark Grayish-Blue */
+            color: #ecf0f1; /* Light Gray */
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         nav {
-            background: #1e1e1e;
+            background: #34495e;
             padding: 15px;
             text-align: center;
         }
         nav a {
-            color: #a020f0; /* Purple Accent */
+            color: #f1c40f; /* Yellow Accent */
             text-decoration: none;
             margin: 0 15px;
             font-size: 18px;
@@ -30,7 +31,7 @@
             width: 150px;
             height: 150px;
             border-radius: 50%;
-            border: 5px solid #a020f0;
+            border: 5px solid #f1c40f;
             margin-bottom: 20px;
         }
         .hero h1 {
@@ -40,8 +41,8 @@
         .hero p.caption {
             font-size: 20px;
             font-weight: bold;
-            color: #a020f0;
-            text-shadow: 2px 2px 8px rgba(160, 32, 240, 0.6);
+            color: #f1c40f;
+            text-shadow: 2px 2px 8px rgba(241, 196, 15, 0.6);
         }
         .container {
             width: 80%;
@@ -52,9 +53,9 @@
         .section {
             margin-bottom: 40px;
             padding: 20px;
-            background: #1e1e1e;
+            background: #34495e;
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(160, 32, 240, 0.6); /* Purple Glow */
+            box-shadow: 0 0 10px rgba(241, 196, 15, 0.6); /* Yellow Glow */
         }
     </style>
 </head>
@@ -69,7 +70,7 @@
     </nav>
     
     <section id="home" class="hero">
-        <img src="profile.jpg" alt="Abhishek Kumar Yadav">
+        <img src="https://i.postimg.cc/j2CnNfq2/profile.jpg" alt="Abhishek Kumar Yadav">
         <h1>Abhishek Kumar Yadav</h1>
         <p class="caption">🔬 "Innovating with AI, Solving with ML"</p>
         <p class="caption">🌍 "Transforming Ideas into AI-powered Reality"</p>
@@ -92,7 +93,7 @@
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
-            <p>Class monitor in school, Leadership in leading a team</p>
+            <p>Class Monitor in School</p>
             <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
