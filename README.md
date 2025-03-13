@@ -5,7 +5,7 @@
     <title>Abhishek Kumar Yadav - Portfolio</title>
     <style>
         body {
-            background-color: #121212;
+            background-color: #000080; /* Navy Blue Background */
             color: #ffffff;
             font-family: Arial, sans-serif;
             margin: 0;
@@ -32,6 +32,16 @@
             border-radius: 50%;
             border: 5px solid #a020f0;
             margin-bottom: 20px;
+        }
+        .hero h1 {
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .hero p.caption {
+            font-size: 20px;
+            font-weight: bold;
+            color: #a020f0;
+            text-shadow: 2px 2px 8px rgba(160, 32, 240, 0.6);
         }
         .container {
             width: 80%;
@@ -61,13 +71,15 @@
     <section id="home" class="hero">
         <img src="profile.jpg" alt="Abhishek Kumar Yadav">
         <h1>Abhishek Kumar Yadav</h1>
-        <p>AI and ML Enthusiast</p>
+        <p class="caption">🔬 "Innovating with AI, Solving with ML"</p>
+        <p class="caption">🌍 "Transforming Ideas into AI-powered Reality"</p>
     </section>
     
     <div class="container">
         <div id="about" class="section">
             <h2>About Me</h2>
-            <p>I am a highly self-motivated engineering student committed to achieving my goals, particularly in coding and technology. I actively practice and enhance my programming skills, dedicating time to learning and evaluating new concepts, technologies, and programming languages.</p>
+            <p>👋 Hi, I'm Abhishek Kumar Yadav! I am a Computer Science and Engineering student at Rungta College of Engineering (2024-2028) with a passion for Artificial Intelligence and Machine Learning. I am constantly exploring coding, problem-solving, and cutting-edge technologies to refine my skills and push my limits.</p>
+            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing, and preparing for tech industry interviews.</p>
         </div>
         <div id="skills" class="section">
             <h2>Skills</h2>
@@ -81,6 +93,7 @@
         <div id="experience" class="section">
             <h2>Experience</h2>
             <p>Class monitor in school, Leadership in leading a team</p>
+            <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
             <h2>Contact</h2>
