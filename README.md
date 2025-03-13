@@ -33,22 +33,11 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(160, 32, 240, 0.6); /* Purple Glow */
         }
-        .profile-img {
-            width: 180px;
-            height: 180px;
-            border-radius: 50%;
-            object-fit: cover;
-            margin-top: 20px;
-            border: 5px solid #a020f0; /* Purple Framing Effect */
-            box-shadow: 0 0 15px rgba(160, 32, 240, 0.7);
-        }
     </style>
 </head>
 <body>
     <header>
         Abhishek Kumar Yadav
-        <br>
-        <img src="profile.jpg" alt="Abhishek Kumar Yadav" class="profile-img">
     </header>
     <div class="container">
         <div class="section">
