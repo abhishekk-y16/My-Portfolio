@@ -35,7 +35,6 @@
             display: block;
             margin: 20px auto;
             border-radius: 20px; /* Soft rounded edges */
-            border: 5px solid #ffcc00;
             box-shadow: 0 0 15px rgba(255, 204, 0, 0.6);
         }
         .hero h1 {
@@ -96,7 +95,7 @@
         <div id="about" class="section">
             <h2>About Me</h2>
             <p>👋 Hi, I'm Abhishek Kumar Yadav! I am a Computer Science and Engineering student at Rungta College of Engineering and Technology (2024-2028) with a passion for Artificial Intelligence and Machine Learning. I am constantly exploring coding, problem-solving, and cutting-edge technologies to refine my skills and push my limits.</p>
-            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing, and preparing the solution of the codes</p>
+            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing, and preparing Solution of the upcoming tech oriented functionality</p>
         </div>
         <div id="skills" class="section">
             <h2>Skills</h2>
@@ -109,7 +108,7 @@
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
-            <p>Class Monitor in School</p>
+            <p>Class monitor in school, Leadership in leading a team</p>
             <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
