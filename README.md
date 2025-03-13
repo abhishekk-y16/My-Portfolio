@@ -103,12 +103,11 @@
         </div>
         <div id="education" class="section">
             <h2>Education</h2>
-            <p>B.Tech in Computer Science and Engineering</p>
+            <p>Currently Pursuing B.Tech in Computer Science and Engineering</p>
             <p>Rungta College of Engineering and Technology (2024 - 2028)</p>
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
-            <p>Class monitor in school, Leadership in leading a team</p>
             <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
