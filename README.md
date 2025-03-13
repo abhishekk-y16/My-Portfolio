@@ -29,12 +29,12 @@
             position: relative;
         }
         .hero img {
-            width: 200px;
-            height: 200px;
+            width: 300px; /* Increased width */
+            height: auto; /* Auto height for full visibility */
             object-fit: cover;
             display: block;
             margin: 20px auto;
-            border-radius: 50%;
+            border-radius: 20px; /* Soft rounded edges */
             border: 5px solid #ffcc00;
             box-shadow: 0 0 15px rgba(255, 204, 0, 0.6);
         }
@@ -57,8 +57,8 @@
             text-align: center;
         }
         .section {
-            margin-bottom: 60px;
-            padding: 30px;
+            margin-bottom: 80px;
+            padding: 40px;
             background: #2a2a2a;
             border-radius: 10px;
             box-shadow: 0 0 15px rgba(255, 204, 0, 0.6);
@@ -71,7 +71,7 @@
         }
         p {
             font-size: 18px;
-            line-height: 1.8;
+            line-height: 2.0;
         }
     </style>
 </head>
@@ -96,7 +96,7 @@
         <div id="about" class="section">
             <h2>About Me</h2>
             <p>👋 Hi, I'm Abhishek Kumar Yadav! I am a Computer Science and Engineering student at Rungta College of Engineering and Technology (2024-2028) with a passion for Artificial Intelligence and Machine Learning. I am constantly exploring coding, problem-solving, and cutting-edge technologies to refine my skills and push my limits.</p>
-            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing the solution of the codes</p>
+            <p>🚀 What Drives Me? As a highly self-motivated learner, I strive to become an AI/ML Engineer by the time I graduate. I dedicate my time to learning, practicing, and preparing the solution of the codes</p>
         </div>
         <div id="skills" class="section">
             <h2>Skills</h2>
@@ -105,11 +105,11 @@
         <div id="education" class="section">
             <h2>Education</h2>
             <p>B.Tech in Computer Science and Engineering</p>
-            <p>Rungta College of Engineering Technology (2024 - 2028)</p>
+            <p>Rungta College of Engineering and Technology (2024 - 2028)</p>
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
-            <p>Class monitor in school, Leadership in leading a team</p>
+            <p>Class Monitor in School</p>
             <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
