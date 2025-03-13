@@ -80,8 +80,8 @@
     <section id="home" class="hero">
         <img src="https://i.postimg.cc/j2CnNfq2/profile.jpg" alt="Abhishek Kumar Yadav">
         <h1>Abhishek Kumar Yadav</h1>
-        <p class="caption">🔬 "Innovating with AI, Solving with ML"</p>
-        <p class="caption">🌍 "Transforming Ideas into AI-powered Reality"</p>
+        <p class="caption">🔬 Innovating with AI, Solving with ML</p>
+        <p class="caption">🌍 Transforming Ideas into AI-powered Reality</p>
     </section>
     
     <div class="container">
@@ -96,7 +96,7 @@
         </div>
         <div id="education" class="section">
             <h2>Education</h2>
-            <p>B.Tech in Computer Science and Engineering</p>
+            <p>Currently Pursuing B.Tech in Computer Science and Engineering</p>
             <p>Rungta College of Engineering (2024 - 2028)</p>
         </div>
         <div id="experience" class="section">
