@@ -5,43 +5,47 @@
     <title>Abhishek Kumar Yadav - Portfolio</title>
     <style>
         body {
-            background-color: #2c3e50; /* Dark Grayish-Blue */
-            color: #ecf0f1; /* Light Gray */
+            background-color: #1e1e1e; /* Dark Background */
+            color: #ffffff; /* White Text */
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         nav {
-            background: #34495e;
+            background: #333;
             padding: 15px;
             text-align: center;
         }
         nav a {
-            color: #f1c40f; /* Yellow Accent */
+            color: #ffcc00; /* Yellow Accent */
             text-decoration: none;
             margin: 0 15px;
-            font-size: 18px;
+            font-size: 20px;
+            font-weight: bold;
         }
         .hero {
             text-align: center;
             padding: 50px;
+            position: relative;
         }
         .hero img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 5px solid #f1c40f;
-            margin-bottom: 20px;
+            width: 100%;
+            max-height: 500px;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto;
+            border-radius: 10px;
         }
         .hero h1 {
-            font-size: 36px;
+            font-size: 40px;
             font-weight: bold;
+            margin-top: 20px;
         }
         .hero p.caption {
-            font-size: 20px;
+            font-size: 22px;
             font-weight: bold;
-            color: #f1c40f;
-            text-shadow: 2px 2px 8px rgba(241, 196, 15, 0.6);
+            color: #ffcc00;
+            text-shadow: 2px 2px 8px rgba(255, 204, 0, 0.6);
         }
         .container {
             width: 80%;
@@ -52,20 +56,25 @@
         .section {
             margin-bottom: 40px;
             padding: 20px;
-            background: #34495e;
+            background: #2a2a2a;
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(241, 196, 15, 0.6); /* Yellow Glow */
+            box-shadow: 0 0 10px rgba(255, 204, 0, 0.6); /* Yellow Glow */
+        }
+        h2 {
+            font-size: 26px;
+            font-weight: bold;
+            color: #ffcc00;
         }
     </style>
 </head>
 <body>
     <nav>
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#education">Education</a>
-        <a href="#experience">Experience</a>
-        <a href="#contact">Contact</a>
+        <a href="#home"><b>Home</b></a>
+        <a href="#about"><b>About</b></a>
+        <a href="#skills"><b>Skills</b></a>
+        <a href="#education"><b>Education</b></a>
+        <a href="#experience"><b>Experience</b></a>
+        <a href="#contact"><b>Contact</b></a>
     </nav>
     
     <section id="home" class="hero">
@@ -92,7 +101,7 @@
         </div>
         <div id="experience" class="section">
             <h2>Experience</h2>
-            <p>Class Monitor in School</p>
+            <p>Class monitor in school, Leadership in leading a team</p>
             <p>📢 "Engaged in Web Seminars, Enhancing Leadership & Quality Management Skills"</p>
         </div>
         <div id="contact" class="section">
